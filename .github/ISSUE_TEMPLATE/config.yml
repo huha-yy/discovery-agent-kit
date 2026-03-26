@@ -1,0 +1,5 @@
+blank_issues_enabled: true
+contact_links:
+  - name: Contribution guide
+    url: https://github.com/huha-yy/discovery-agent-kit/blob/main/CONTRIBUTING.md
+    about: Review the contribution rules and repo scope before opening an issue.
