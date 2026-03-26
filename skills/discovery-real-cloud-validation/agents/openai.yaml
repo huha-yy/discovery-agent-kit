@@ -1,0 +1,3 @@
+interface:
+  display_name: "Discovery Real-Cloud Validation"
+  short_description: "Plan and prove real-cloud execution coverage for Discovery projects"

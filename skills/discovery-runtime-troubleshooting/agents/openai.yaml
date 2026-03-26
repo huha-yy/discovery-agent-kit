@@ -1,0 +1,3 @@
+interface:
+  display_name: "Discovery Runtime Troubleshooting"
+  short_description: "Diagnose startup, sync, worker, scheduler, and adapter failures"

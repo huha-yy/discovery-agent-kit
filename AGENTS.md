@@ -37,4 +37,5 @@ Review every changed skill for:
 - trigger clarity
 - workflow completeness
 - project-agnostic wording
+- reusable evidence and template coverage
 - absence of sensitive project data
