@@ -1,0 +1,34 @@
+# macOS
+.DS_Store
+
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+
+# Virtual environments
+.venv/
+venv/
+env/
+
+# IDE
+.idea/
+.vscode/
+
+# Local outputs
+tmp/
+dist/
+build/
+*.log
+
+# Skill installation targets
+.codex-sync/
+
+# OS/editor temp files
+*.swp
+*.swo
+*~

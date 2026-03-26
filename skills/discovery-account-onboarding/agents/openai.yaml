@@ -1,0 +1,3 @@
+interface:
+  display_name: "Discovery Account Onboarding"
+  short_description: "Onboard and validate cloud accounts for Discovery-style systems"

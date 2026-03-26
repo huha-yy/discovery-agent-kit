@@ -1,0 +1,3 @@
+interface:
+  display_name: "Discovery SOW Audit"
+  short_description: "Audit SOW coverage and classify implementation evidence"

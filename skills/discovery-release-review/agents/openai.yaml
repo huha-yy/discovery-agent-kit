@@ -1,0 +1,3 @@
+interface:
+  display_name: "Discovery Release Review"
+  short_description: "Run release and acceptance readiness checks for Discovery projects"

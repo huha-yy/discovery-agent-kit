@@ -1,0 +1,3 @@
+interface:
+  display_name: "Discovery Document Sync"
+  short_description: "Align spec, design, implementation, and acceptance documents"
